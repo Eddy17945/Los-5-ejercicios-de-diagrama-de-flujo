@@ -1,0 +1,10 @@
+# include <iostream>
+using manespace std;
+int main()
+{
+  float a,b,c;
+  cin>>a>>b;
+  c=a+b
+  cout <<b;
+  return(0);
+  }
